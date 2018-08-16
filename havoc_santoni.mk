@@ -21,7 +21,7 @@ $(call inherit-product, vendor/havoc/products/common.mk)
 
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 4X
+PRODUCT_MODEL := Redmi 4
 PRODUCT_NAME := havoc_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
