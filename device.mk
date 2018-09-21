@@ -18,7 +18,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 $(call inherit-product, vendor/xiaomi/santoni/santoni-vendor.mk)
 
-$(call inherit-product, vendor/havoc/config/qcom_utils.mk)
+$(call inherit-product, vendor/nitrogen/config/qcom_utils.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
