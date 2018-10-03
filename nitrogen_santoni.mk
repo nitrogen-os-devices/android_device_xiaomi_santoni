@@ -21,7 +21,7 @@ $(call inherit-product, vendor/nitrogen/products/common.mk)
 
 PRODUCT_DEVICE := santoni
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Redmi 4
+PRODUCT_MODEL := Redmi 4X
 PRODUCT_NAME := nitrogen_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
